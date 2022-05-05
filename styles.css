@@ -1,0 +1,16 @@
+body{
+    background: #ccc;
+    align-items: center;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer{
+    margin-top: 17rem;
+    bottom: 0;
+}
+
+.submit_button{
+    background: rgb(36, 34, 34);
+    border: 2px black;
+}
